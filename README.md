@@ -126,4 +126,4 @@ Então, para clonar um repositório, você usaria:
 git clone git@github-pessoal:usuario/repositorio.git
 ```
 
-Seguindo esses passos, você terá uma nova chave SSH vinculada ao GitHub e pronta para ser utilizada com seus scripts automatizados e comandos Git.
+Seguindo esses passos, você terá uma nova chave SSH vinculada ao GitHub e pronta para ser utilizada com seus scripts automatizados e comandos Git.# ssh_git
