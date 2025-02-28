@@ -160,14 +160,12 @@ cat ~/.ssh/nome_da_chave.pub
 Caso esteja usando o mesmo nome do tutorial ou somente copiando e colando, copie o comando abaixo e cole no seu terminal: 
 
 ```bash
-cat ~/.ssh/id_github
+cat ~/.ssh/id_github.pub
 ```
 O terminal irá exibir algo assim: 
 
 ```
------BEGIN OPENSSH PRIVATE KEY-----
-b3BlgbLWNlhScqb2UB76JVGGVkli8flmO+5Z8CSSNY7GidjMIzkznsjfndfjbdfkjfi877ruj16z6XyvxvjJwbz0wQZ75XK5tKSb7FNyeIEs4TT4jk+S4dhPeAUC5y+bDYirYgM4GC7uEnztnZyaVWQ7B381AK4Qdrwt51ZqExKbQpTUNn+EjqoTwvqNj4kqx5QUCI0ThS/YkOxJCXmPUWZbhjpCg56i+2aB6CmK2JGhn8788989Jjhefuer77JHGG9787
------END OPENSSH PRIVATE KEY-----
+ssh-ed25519 ATRFC8Onhg1lZDIkmdg5IBVD51jsbffPON89yBPPND234NJJB52knPm78PMCS8h5nl seu_email@exemplo.com
 ```
 
 Copie todo o conteúdo exibido no terminal.
