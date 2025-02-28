@@ -196,6 +196,10 @@ Se tudo estiver certo, verá algo como:
 Hi seu-usuario! You've successfully authenticated, but GitHub does not provide shell access.
 ```
 
+Se você possui apenas uma conta no GitHub, nós terminamos por aqui, agora você já consegue clonar seus repositórios e trabalha-los no seu ambiente local.  
+
+Eu tenho outro repositório no GitHub que pode ser útil para você, é um repositório que possui scripts executáveis que automatizam configurações iniciais do git, você só precisa baixa-los e executá-los, sem necessidade de digitar todos os comandos no seu terminal. 
+clique [aqui](https://github.com/corry257/scripts_git) para ir até o repositório. 
 ---
 
 ## 8. Configuração Final para Scripts e Múltiplas Contas
